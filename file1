@@ -4,3 +4,8 @@ File1 is updated at row 3 in branchB
 
 Row5 is also added
 This row is updated after 1 commit
+
+This file has been updated from branchA
+The current time is 21:04 on Sunday, June 12th, 2022
+
+Fixing conflict done
